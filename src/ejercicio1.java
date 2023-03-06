@@ -20,6 +20,7 @@ public class ejercicio1 {
         System.out.print("Ingrese el nombre: ");
         String nombre = Leer.nextLine();
         System.out.println("El nombre ingresado es "+nombre);
+        System.out.println("Viva la Vida - ColdPlay");
                 
     }
     
